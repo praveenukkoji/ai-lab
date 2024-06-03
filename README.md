@@ -1,1 +1,1 @@
-# AI-LAB-7th-SEM
+# ai lab programs 7th semester
